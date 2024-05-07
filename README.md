@@ -1,6 +1,6 @@
 # Enterprise Challenge FIAP - Minsait
 
-![Imagem - Minsait]()
+![Imagem - Minsait](https://github.com/Grupo-FIAP-Data-science/Challenge_1/blob/1a30fd3a85efdea99601edb766963b70b3c72925/Documentos/Desafio_Minsait.png)
 
 Este é o repositório do projeto desenvolvido para o curso de Data Science da FIAP.
 
